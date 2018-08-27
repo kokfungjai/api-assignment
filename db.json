@@ -1,44 +1,46 @@
-[
-  {
-    "id": 2,
-    "name": "à¸à¸¶à¹ˆà¸‡à¸«à¸¥à¸±à¸šà¸à¸¶à¹ˆà¸‡à¸•à¸·à¹ˆà¸™",
-    "type": "track",
-    "cover": "https://image.fungjai.com/album/1441871645241493.jpg"
-  },
-  {
-    "id": 101,
-    "name": "The Yers à¹€à¸—à¸¨à¸à¸²à¸¥ Re-live Hedsod 4 Experience à¹‚à¸”à¸¢à¸Ÿà¸±à¸‡à¹ƒà¸ˆ",
-    "type": "video",
-    "cover": "https://image.fungjai.com/2016/11/14/cover/1479128301265298.jpg"
-  },
-  {
-    "id": 8,
-    "name": "à¹€à¸à¸ªà¸£à¸”à¸­à¸à¹„à¸¡à¹‰",
-    "type": "track",
-    "cover": "https://image.fungjai.com/2016/09/24/cover/1474727723292591.jpg"
-  },
-  {
-    "id": 10,
-    "name": "Sleep Tight (03.00 A.M.)",
-    "type": "track",
-    "cover": "https://image.fungjai.com/2016/03/18/cover/1458286923847519.jpg"
-  },
-  {
-    "id": 304,
-    "name": "à¸à¸¶à¹ˆà¸‡à¸«à¸¥à¸±à¸šà¸à¸¶à¹ˆà¸‡à¸•à¸·à¹ˆà¸™",
-    "type": "ads",
-    "cover": "https://image.fungjai.com/album/1441871645241493.jpg"
-  },
-  {
-    "id": 101,
-    "name": "The Yers à¹€à¸—à¸¨à¸à¸²à¸¥ Re-live Hedsod 4 Experience à¹‚à¸”à¸¢à¸Ÿà¸±à¸‡à¹ƒà¸ˆ",
-    "type": "video",
-    "cover": "https://image.fungjai.com/2016/11/14/cover/1479128301265298.jpg"
-  },
-  {
-    "id": 101,
-    "name": "The Yers à¹€à¸—à¸¨à¸à¸²à¸¥ Re-live Hedsod 4 Experience à¹‚à¸”à¸¢à¸Ÿà¸±à¸‡à¹ƒà¸ˆ",
-    "type": "video",
-    "cover": "https://image.fungjai.com/2016/11/14/cover/1479128301265298.jpg"
-  }
-]
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "à¸à¸¶à¹ˆà¸‡à¸«à¸¥à¸±à¸šà¸à¸¶à¹ˆà¸‡à¸•à¸·à¹ˆà¸™",
+      "type": "track",
+      "cover": "https://image.fungjai.com/album/1441871645241493.jpg"
+    },
+    {
+      "id": 101,
+      "name": "The Yers à¹€à¸—à¸¨à¸à¸²à¸¥ Re-live Hedsod 4 Experience à¹‚à¸”à¸¢à¸Ÿà¸±à¸‡à¹ƒà¸ˆ",
+      "type": "video",
+      "cover": "https://image.fungjai.com/2016/11/14/cover/1479128301265298.jpg"
+    },
+    {
+      "id": 8,
+      "name": "à¹€à¸à¸ªà¸£à¸”à¸­à¸à¹„à¸¡à¹‰",
+      "type": "track",
+      "cover": "https://image.fungjai.com/2016/09/24/cover/1474727723292591.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sleep Tight (03.00 A.M.)",
+      "type": "track",
+      "cover": "https://image.fungjai.com/2016/03/18/cover/1458286923847519.jpg"
+    },
+    {
+      "id": 304,
+      "name": "à¸à¸¶à¹ˆà¸‡à¸«à¸¥à¸±à¸šà¸à¸¶à¹ˆà¸‡à¸•à¸·à¹ˆà¸™",
+      "type": "ads",
+      "cover": "https://image.fungjai.com/album/1441871645241493.jpg"
+    },
+    {
+      "id": 101,
+      "name": "The Yers à¹€à¸—à¸¨à¸à¸²à¸¥ Re-live Hedsod 4 Experience à¹‚à¸”à¸¢à¸Ÿà¸±à¸‡à¹ƒà¸ˆ",
+      "type": "video",
+      "cover": "https://image.fungjai.com/2016/11/14/cover/1479128301265298.jpg"
+    },
+    {
+      "id": 101,
+      "name": "The Yers à¹€à¸—à¸¨à¸à¸²à¸¥ Re-live Hedsod 4 Experience à¹‚à¸”à¸¢à¸Ÿà¸±à¸‡à¹ƒà¸ˆ",
+      "type": "video",
+      "cover": "https://image.fungjai.com/2016/11/14/cover/1479128301265298.jpg"
+    }
+  ]
+}
